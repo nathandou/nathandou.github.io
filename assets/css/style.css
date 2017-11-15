@@ -631,6 +631,7 @@ SOCIAL ICON
 
 .video-section {
     background: url(../images/ColisWeb010.jpg) no-repeat center center;
+    opacity:0.7;
     background-size: cover;
     position: relative;
     min-height: 500px;
