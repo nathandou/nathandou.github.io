@@ -6,7 +6,7 @@
     header( 'Content-type: application/json' );
 
 
-    $to         = 'me@nathandouillard.com';  // put your email here
+    $to         = 'douillardnathan@gmail.com';  // put your email here
 
     $email_template = 'simple.html';
 
@@ -38,6 +38,7 @@
          echo json_encode($result );
          die;
     }
+
 
 
 
